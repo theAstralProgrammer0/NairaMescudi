@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Temitayo Daisi-Oso
-- 👀 I’m a Software Engineer and full stack web developer skilled in HTML, CSS, VanillaJS, ReactJS, Bootstrap, Git, and Command Line. Furthermore, I have an overview of the server-Side JS runtime (NodeJS) and other related technologies (ExpressJS and MongoDB).
-- 🌱 I’m currently learning technologies pertaining to Backend Engineering from C-programming language to Python (and it's frameworks) to SQL to ES6 to GraphQL and to all things API. 
-- 💞️ I’m looking to collaborate on AI/ML, blockchain, and Game Development tech. I look forward to collaborating with like-minded individuals and other skilled professionals to create a landmark product.
-- 📫 How to reach me https://softwaredaily.slack.com/team/U05KCCG4339
+###👋 Yo devs!
+
+I’m Temitayo Daisi-Oso
+I’m a Software Engineer and full-stack web developer skilled in HTML, CSS, JavaScript, ReactJS, Bootstrap, Git, and Bash. 
+Furthermore, I use NodeJS and other related full-stack technologies (ExpressJS and MongoDB).
+Currently learning technologies pertaining to Backend Engineering from C-programming language to Python, SQL, and all things API. 
+Looking to collaborate on Metaverse projects, AI/ML, and Game Development tech. 
+Want to connect with like-minded individuals to create a landmark product?
+How to reach me: DISCORD == tymescudi
+
+[![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NairaMescudi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NairaMescudi/NairaMescudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
