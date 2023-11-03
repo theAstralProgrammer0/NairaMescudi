@@ -14,6 +14,8 @@ Want to connect with like-minded individuals to create a landmark product?
 
 How to reach me: DISCORD == tymescudi
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NairaMescudi&hide=contribs,prs)
+
 [![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NairaMescudi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
