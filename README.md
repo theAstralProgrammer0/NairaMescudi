@@ -8,16 +8,17 @@
 <li><p>
   Furthermore, I use <code>NodeJS</code> and other related full-stack technologies <code>ExpressJS</code> and <code>MongoDB</code> daily.
   Currently learning technologies pertaining to Backend Engineering from C-programming
-  language to Python, SQL, and all things API. 
+  language to <code>Python</code>, <code>SQL</code>, and all things <code>API</code>. 
 </p></li>
 <li><p>
-  Looking to collaborate on Metaverse projects, AI/ML, and Game Development tech. 
-  Want to connect with like-minded individuals to create a landmark product?
+  Looking to collaborate on <code>Metaverse projects</code>, <code>AI/ML</code>, and <code>Game Development</code> tech. 
+  <div>Want to connect with like-minded individuals to create a landmark product</div>
 </p></li>
 <li><p>
-  How to reach me: DISCORD == <i>tymescudi</i>
+  How to reach me: <code>DISCORD</code> == <i>tymescudi</i>
 </p></li>
 </ul>
+
 [![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NairaMescudi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
