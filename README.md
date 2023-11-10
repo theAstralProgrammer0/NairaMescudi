@@ -18,8 +18,6 @@
   How to reach me: DISCORD == <i>tymescudi</i>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NairaMescudi&hide=contribs,prs)
-
 [![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NairaMescudi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
