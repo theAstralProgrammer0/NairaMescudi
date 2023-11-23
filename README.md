@@ -3,12 +3,15 @@
 <ul><li><p>
   I’m passionate about <code><b>CODE</b></code> 
   A <i>Software Engineer</i> and <i>Full-Stack Web Developer</i> skilled in
-  <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>ReactJS</code>, <code>Bootstrap</code>, <code>Git</code>.
+  <code>C</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>ReactJS</code>, <code>Bootstrap</code>, <code>Git</code>.
 </p></li>
 <li><p>
   Furthermore, I use <code>NodeJS</code> and other related full-stack technologies <code>ExpressJS</code> and <code>MongoDB</code> daily.
   Currently learning technologies pertaining to Backend Engineering from C-programming
   language to <code>Python</code>, <code>SQL</code>, and all things <code>API</code>. 
+</p></li>
+<li><p>
+  To top it all off, I'm quite skilled in operating the Shell using <code>Bash</code> scripts. 
 </p></li>
 <li><p>
   Looking to collaborate on <code>Metaverse projects</code>, <code>AI/ML</code>, and <code>Game Development</code> tech. 
