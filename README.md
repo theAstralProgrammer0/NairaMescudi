@@ -18,7 +18,7 @@
   <div>Want to connect with like-minded individuals to create a landmark product</div>
 </p></li>
 <li><p>
-  How to reach me: <code>DISCORD USERNAME</code> == <i>tymescudi</i>
+  How to reach me: DISCORD == <code><i>tymescudi</i></code>
 </p></li>
 </ul>
 
