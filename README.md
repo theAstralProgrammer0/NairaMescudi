@@ -14,7 +14,7 @@
   To top it all off, I'm quite skilled in operating the Shell using <code>Bash</code> scripts. 
 </p></li>
 <li><p>
-  Looking to collaborate on <code>Metaverse projects</code>, <code>AI/ML</code>, and <code>Game Development</code> tech. 
+  Looking forward to being a part of the <code>Mars Exploration Team</code>. I also want to collaborate on <code>Metaverse Projects</code>, and advance us closer towards attaining <code>AGI</code>. 
   <div>Want to connect with like-minded individuals to create a landmark product</div>
 </p></li>
 <li><p>
