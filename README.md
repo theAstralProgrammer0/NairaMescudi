@@ -22,7 +22,7 @@
 </p></li>
 </ul>
 
-[![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NairaMescudi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theAstralProgrammer0&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NairaMescudi/NairaMescudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
